@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.optionBtn {
+  border: 3px solid rgb(11, 10, 11);
+  background-color: rgb(198, 217, 254);
+  color: #000000;
+  font-size: x-large;
+  font-weight: 600;
+}
+
